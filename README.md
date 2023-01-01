@@ -1,4 +1,7 @@
-### Prazer Fred, estudante de tecnologia com foco em desenvolvimento de software.  👋
+### Hi Fred, 22 years old from Goiânia - GO - Brazil, currently
+studying and working in the technology field, specializing in
+mobile software development. All of my resume
+information is available on my LinkedIn.  👋
 
 <!--
 **fredericommleao/fredericommleao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
