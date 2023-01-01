@@ -1,6 +1,5 @@
-### Hi Fred, 22 years old from Goiânia - GO - Brazil, currently
-### studying and working in the technology field, specializing in
-### mobile software development. All of my resume
+### Hi Fred,currently studying and working in the technology field, 
+### specializing in mobile software development. All of my resume
 ### information is available on my LinkedIn.  👋
 
 <!--
