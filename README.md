@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fred, 22 years old, from Goiânia, GO, Brazil. I am currently a Systems Analysis student in the 5th period at PUC Goiás.
+Fred, 23 years old, from Goiânia, GO, Brazil. I am currently a Systems Analysis student in the 5th period at PUC Goiás.
 Last year, I had the opportunity to work as a flutter developer. I like to stay updated in the development area,
 my interests are in mobile or web, frontend or backend.
 
